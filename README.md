@@ -1,1 +1,1 @@
-# get red envelop via Jedis
+# simple get red envelop via Jedis api
